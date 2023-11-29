@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-food/static/css/main.2d92b039.css",
+    "main.js": "/react-food/static/js/main.5453fc19.js",
+    "static/js/787.d4aba7ab.chunk.js": "/react-food/static/js/787.d4aba7ab.chunk.js",
+    "static/media/dp-img3.jpg": "/react-food/static/media/dp-img3.1d32250abac91f7f9ea2.jpg",
+    "static/media/plate.png": "/react-food/static/media/plate.78aa09fd85052339a3c7.png",
+    "static/media/dp-img2.jpg": "/react-food/static/media/dp-img2.f3456a720c050f63107b.jpg",
+    "static/media/blog1.png": "/react-food/static/media/blog1.561d1b2cf65600075946.png",
+    "static/media/blog2.png": "/react-food/static/media/blog2.90eafa15b323baaa4a78.png",
+    "static/media/ad1.png": "/react-food/static/media/ad1.6473b3d2019dc72c5b2b.png",
+    "static/media/ad2.png": "/react-food/static/media/ad2.7b442c957c66f6f5fda9.png",
+    "static/media/ad5.png": "/react-food/static/media/ad5.542c4c03409acce8c5b0.png",
+    "static/media/flowerkolly.png": "/react-food/static/media/flowerkolly.1bfe9cb24524e4a750ed.png",
+    "static/media/ad4.png": "/react-food/static/media/ad4.bed7aafc0e139a7a6a61.png",
+    "static/media/ad3.png": "/react-food/static/media/ad3.fa63801e31bf930cf1ca.png",
+    "static/media/dp-img1.png": "/react-food/static/media/dp-img1.47e271c7d21021ee3399.png",
+    "static/media/pickles 2.png": "/react-food/static/media/pickles 2.1480f132d20d5b27adda.png",
+    "static/media/tomato 2.png": "/react-food/static/media/tomato 2.73b82e9168e8c733e717.png",
+    "static/media/juice.png": "/react-food/static/media/juice.c621c81a7113b0d64c0d.png",
+    "static/media/tomatos.png": "/react-food/static/media/tomatos.08ca830209d9d6638164.png",
+    "static/media/mushroom.png": "/react-food/static/media/mushroom.39446a65b1de2a9361c1.png",
+    "static/media/pickles.png": "/react-food/static/media/pickles.84af15a277e4c3866d50.png",
+    "static/media/capcicum.png": "/react-food/static/media/capcicum.60e11228d3beaf89643f.png",
+    "static/media/strawberies.png": "/react-food/static/media/strawberies.3165d1e37faed1c166d1.png",
+    "static/media/orange-slice.png": "/react-food/static/media/orange-slice.a9c937a234c538f11c6e.png",
+    "static/media/brand5.png": "/react-food/static/media/brand5.ae7e964bdb1c9519ef99.png",
+    "static/media/cherry.png": "/react-food/static/media/cherry.811c87a50b1b86ac8b1c.png",
+    "static/media/call icon.svg": "/react-food/static/media/call icon.d8ff0c2669252b0fdff064b54555e44e.svg",
+    "index.html": "/react-food/index.html",
+    "main.2d92b039.css.map": "/react-food/static/css/main.2d92b039.css.map",
+    "main.5453fc19.js.map": "/react-food/static/js/main.5453fc19.js.map",
+    "787.d4aba7ab.chunk.js.map": "/react-food/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d92b039.css",
+    "static/js/main.5453fc19.js"
+  ]
+}
